@@ -15,6 +15,7 @@ body {
   height: 400px;
   background-color: #fffffe;
   border-radius: 10px;
+  box-shadow: 5px 5px #80807f09;
   position: absolute;
   top: 50%;
   left: 50%;
